@@ -1,3 +1,7 @@
 # Three.js master files
 three.js-master*
 three*
+
+# library
+build*
+CubeandCone/jsm
